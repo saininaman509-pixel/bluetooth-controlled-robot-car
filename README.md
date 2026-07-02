@@ -2,18 +2,14 @@
 
 An Arduino-based Bluetooth controlled robot car that can be controlled wirelessly using a smartphone.
 
----
-
 ## 📌 Features
 
-- Wireless Bluetooth control
+- Wireless Bluetooth control using HC-05
 - Forward, Backward, Left and Right movement
-- Stop functionality
+- Stop command
 - Arduino UNO based
-- L298N Motor Driver
-- HC-05 Bluetooth Module
-
----
+- Real-time motor control
+- Easy to customize
 
 ## 🛠 Components Used
 
@@ -23,8 +19,7 @@ An Arduino-based Bluetooth controlled robot car that can be controlled wirelessl
 - TT DC Motors
 - Robot Chassis
 - 18650 Battery Pack
-
----
+- Jumper Wires
 
 ## 📂 Repository Structure
 
@@ -35,34 +30,24 @@ videos/
 docs/
 ```
 
----
-
 ## 📷 Project Gallery
 
-Project images are available inside the **images** folder.
-
----
+See the **images** folder for project photos.
 
 ## 🎥 Demo
 
-A working demonstration video is available inside the **videos** folder.
-
----
+See the **videos** folder for the working demonstration.
 
 ## 🚀 Future Improvements
 
 - Obstacle avoidance
-- Line following mode
-- NRF24L01 remote control
-- Mobile app improvements
-- Autonomous navigation
-
----
+- Line following
+- NRF24L01 wireless controller
+- Voice control
+- Mobile app enhancements
 
 ## 👨‍💻 Author
 
 **Naman Saini**
 
 Electronics & Communication Engineering Student
-
-Learning Embedded Systems • Robotics • VLSI
