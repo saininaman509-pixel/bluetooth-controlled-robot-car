@@ -30,13 +30,32 @@ videos/
 docs/
 ```
 
+
 ## 📷 Project Gallery
 
-See the **images** folder for project photos.
+### Robot Car
 
-## 🎥 Demo
+![Robot Car](images/BT_Controlled_Robo1.jpeg)
 
-See the **videos** folder for the working demonstration.
+### Top View
+
+![Top View](images/ROBOCarIMG02.jpeg)
+
+### Side View
+
+![Side View](images/ROBOCarIMG03.jpeg)
+
+### Electronics
+
+![Electronics](images/ROBOCarIMG04.jpeg)
+
+### Rear View
+
+![Rear View](images/ROBOCarIMG05.jpeg)
+
+## 🎥 Demo Video
+
+The working demonstration video is available in the **videos** folder.
 
 ## 🚀 Future Improvements
 
@@ -45,6 +64,17 @@ See the **videos** folder for the working demonstration.
 - NRF24L01 wireless controller
 - Voice control
 - Mobile app enhancements
+
+  
+## 🧠 Skills Demonstrated
+
+- Embedded Systems
+- Arduino Programming
+- Bluetooth Communication
+- Motor Driver Interfacing
+- Circuit Design
+- Hardware Debugging
+- Mobile App Integration
 
 ## 👨‍💻 Author
 
